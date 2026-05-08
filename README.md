@@ -3,10 +3,6 @@
 **Full Stack Java Developer em formação &nbsp;|&nbsp; São Paulo, SP**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
 ---
